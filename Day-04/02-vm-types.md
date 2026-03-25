@@ -1,4 +1,4 @@
-# Types of Virtual Machines on Azure
+## Types of Virtual Machines on Azure
 
 Azure provides a variety of virtual machine (VM) offerings to cater to different workload requirements. Each VM type is designed with specific hardware configurations to meet diverse performance and scalability needs.
 
