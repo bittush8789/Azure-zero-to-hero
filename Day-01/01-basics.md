@@ -1,4 +1,4 @@
-# Basics of Cloud Computing
+## Basics of Cloud Computing
 
 ## What is Cloud ?
 
